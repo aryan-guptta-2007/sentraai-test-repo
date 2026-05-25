@@ -9,4 +9,3 @@ resource "aws_security_group" "bad" {
     cidr_blocks = ["0.0.0.0/0"]
   }
 }
-# webhook test
